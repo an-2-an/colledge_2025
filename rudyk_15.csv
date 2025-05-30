@@ -1,0 +1,554 @@
+order_id,order_date,product_name,product_price,quantity,product_category,manufacturer,payment_method,discount_applied,customer_name,customer_gender,customer_city,customer_age,review_score
+86307956,2024-01-01,Shure AONIC 50,299.0,1,HEADPHONES,Shure,apple_pay,No,Sarah Anderson,FEMALE,Birmingham,33,4
+64446646,2024-01-01,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,google_pay,No,Derek Griffith,MALE,Birmingham,44,5
+80931454,2024-01-04,Sony Xperia 1 V,1099.0,1,PHONES,Sony,google_pay,No,Roberto Cook,MALE,Liverpool,18,5
+85623064,2024-01-04,Sony Xperia 1 V,1099.0,1,PHONES,Sony,google_pay,No,Miss Nancy Franco,FEMALE,Glasgow,41,3
+50420544,2024-01-05,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,google_pay,No,Michael Fox,MALE,London,32,4
+83076466,2024-01-06,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,apple_pay,No,Yvonne Rogers,FEMALE,Liverpool,42,4
+35400905,2024-01-06,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,paypal,No,Sarah Williams,FEMALE,Birmingham,18,4
+34425671,2024-01-10,MSI Katana GF66,899.99,1,COMPUTERS,MSI,card,No,Latoya Fisher,FEMALE,Liverpool,18,5
+73928423,2024-01-10,Apple iPad Air,599.0,1,TABLETS,Apple,qiwi,No,Stephanie Holmes,FEMALE,Glasgow,32,5
+35549109,2024-01-10,Sony Xperia 1 V,1099.0,1,PHONES,Sony,google_pay,No,Savannah Weeks,FEMALE,London,18,4
+71795270,2024-01-10,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,paypal,No,Jesse Ramsey,MALE,Birmingham,43,4
+18187588,2024-01-13,Google Pixel 8 Pro,899.1,1,PHONES,Google,card,Yes,Charlotte Weber,FEMALE,London,30,4
+37539313,2024-01-13,Apple iPhone SE (2022),429.0,1,PHONES,Apple,google_pay,No,Chelsea Myers,FEMALE,Plymouth,48,4
+44914493,2024-01-14,HP Spectre x360,1199.99,1,COMPUTERS,HP,card,No,Julia Howell,FEMALE,Liverpool,19,4
+01688764,2024-01-14,Microsoft Surface Laptop 5,1099.99,2,COMPUTERS,Microsoft,paypal,No,Stephanie Aguilar,FEMALE,Edinburgh,45,5
+79960458,2024-01-16,Samsung Galaxy S24 Ultra,1079.99,1,PHONES,Samsung,google_pay,Yes,Mr. Robert Reed,MALE,Edinburgh,30,4
+02900247,2024-01-16,Xiaomi Pad 6,399.99,1,TABLETS,Xiaomi,card,No,Mrs. Donna Meyer,FEMALE,London,48,3
+33412085,2024-01-17,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,google_pay,Yes,Patricia Reynolds,FEMALE,Reading,35,5
+75520434,2024-01-18,Epson WorkForce WF-2930,149.0,1,PRINTERS,Epson,cash,No,Kelly White,FEMALE,Aberdeen,34,5
+39048967,2024-01-18,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,google_pay,No,Tiffany Jones MD,FEMALE,Coventry,18,5
+35328896,2024-01-20,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,qiwi,No,Dana Dunlap,FEMALE,Liverpool,49,3
+71423234,2024-01-20,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,paypal,No,Sara Cox,FEMALE,Aberdeen,32,5
+50949748,2024-01-21,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,card,No,Carlos Ray,MALE,Birmingham,29,5
+12723980,2024-01-21,Apple iPhone SE (2022),429.0,1,PHONES,Apple,cash,No,Barbara Williams,FEMALE,London,18,3
+04693567,2024-01-22,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,card,No,Jennifer Leach,FEMALE,Edinburgh,18,3
+10643358,2024-01-22,Google Pixel 8 Pro,999.0,1,PHONES,Google,card,No,Yvette Adkins,FEMALE,Leeds,19,3
+12761692,2024-01-22,Logitech G Pro X Wireless,229.0,1,HEADPHONES,Logitech,qiwi,No,Linda Lee,FEMALE,Birmingham,33,4
+65296813,2024-01-24,Sony Xperia 1 V,1099.0,1,PHONES,Sony,google_pay,No,Kimberly Young,FEMALE,London,41,5
+45649813,2024-01-25,OnePlus 12,719.99,1,PHONES,OnePlus,google_pay,Yes,Christina Robinson,FEMALE,London,22,4
+21626074,2024-01-27,Apple iPhone SE (2022),429.0,1,PHONES,Apple,cash,No,Jordan Castillo,FEMALE,London,43,4
+97708070,2024-01-29,Google Pixel 8 Pro,999.0,1,PHONES,Google,qiwi,No,Teresa Wood,FEMALE,London,38,4
+13366391,2024-01-30,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,card,No,Daniel Cohen,MALE,London,37,4
+79173544,2024-01-30,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,paypal,No,Regina Morales,FEMALE,London,27,3
+38597541,2024-01-31,MSI Katana GF66,899.99,1,COMPUTERS,MSI,paypal,No,Darius Howell,MALE,Leeds,20,3
+90684968,2024-02-01,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,cash,No,Kristin Palmer,FEMALE,Birmingham,22,4
+27339121,2024-02-01,Sony Xperia 1 V,1099.0,1,PHONES,Sony,apple_pay,No,Chad Cherry,MALE,Liverpool,25,3
+66982036,2024-02-02,Sony WH-1000XM5,399.99,3,HEADPHONES,Sony,card,No,Jessica Huynh,FEMALE,Birmingham,18,5
+13748869,2024-02-02,Nothing Phone (2),599.0,1,PHONES,Nothing,paypal,No,Audrey Williams,FEMALE,Glasgow,31,4
+97013464,2024-02-02,Google Pixel 8 Pro,999.0,1,PHONES,Google,paypal,No,Carolyn Smith,FEMALE,Glasgow,39,4
+34049877,2024-02-02,Acer Swift 3,629.1,1,COMPUTERS,Acer,card,Yes,Alejandra Moore,FEMALE,London,28,5
+49656848,2024-02-02,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,card,No,Caitlin Hill,FEMALE,London,34,4
+84485434,2024-02-03,Google Pixel 8 Pro,999.0,1,PHONES,Google,apple_pay,No,Brittney Lane,FEMALE,London,33,5
+94079371,2024-02-03,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,qiwi,No,Rebecca Grimes,FEMALE,London,42,4
+48614528,2024-02-03,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,card,No,Samuel Wilson,MALE,Leeds,33,3
+65257104,2024-02-04,Google Pixel 8 Pro,999.0,1,PHONES,Google,card,No,Belinda Hall,FEMALE,London,28,5
+71221113,2024-02-04,Xiaomi Pad 6,359.99,1,TABLETS,Xiaomi,apple_pay,Yes,Patricia Best,FEMALE,Birmingham,30,4
+80410478,2024-02-05,"Apple iMac 24""",1299.0,1,COMPUTERS,Apple,card,No,Stephanie Estes,FEMALE,Liverpool,24,4
+47400641,2024-02-05,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,cash,No,Alejandra Scott,FEMALE,London,39,5
+25049268,2024-02-05,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,paypal,No,Danielle Norman,FEMALE,London,31,4
+11628057,2024-02-06,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,paypal,No,Monica Griffin,FEMALE,Edinburgh,33,4
+12696185,2024-02-06,Apple iPhone SE (2022),429.0,1,PHONES,Apple,apple_pay,No,Omar Abbott,MALE,London,37,4
+48493871,2024-02-07,Anker Soundcore Life Q35,129.99,1,HEADPHONES,Anker,google_pay,No,Karen Lee,FEMALE,Leeds,22,3
+37232832,2024-02-10,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Timothy Long,MALE,Edinburgh,54,4
+90210396,2024-02-11,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,paypal,No,Mary Smith,FEMALE,Birmingham,35,4
+20323707,2024-02-12,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,card,No,Nicole Wright,FEMALE,London,30,5
+52869945,2024-02-14,HP Spectre x360,1199.99,1,COMPUTERS,HP,card,No,Zachary Gomez,MALE,London,24,4
+71014593,2024-02-15,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,google_pay,No,Michelle Brock,FEMALE,Leeds,38,3
+07898907,2024-02-16,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,card,No,Lori Castillo,FEMALE,London,24,4
+34876374,2024-02-16,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,apple_pay,No,Amanda Rodriguez,FEMALE,Glasgow,42,5
+97671794,2024-02-18,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,card,No,Anita Moyer,FEMALE,London,19,5
+58682869,2024-02-18,Anker Soundcore Life Q35,129.99,2,HEADPHONES,Anker,google_pay,No,Michelle Clay,FEMALE,London,32,4
+45177231,2024-02-19,OnePlus 12,799.99,1,PHONES,OnePlus,google_pay,No,Anthony Mercado,MALE,Leeds,18,4
+74607426,2024-02-20,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,google_pay,No,Teresa Taylor,FEMALE,Edinburgh,34,3
+47234727,2024-02-20,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,paypal,No,Dr. Kaitlyn Harris MD,FEMALE,Aberdeen,37,5
+00868969,2024-02-20,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,paypal,No,Mrs. Megan Roberts,FEMALE,Leeds,33,3
+15396198,2024-02-20,Shure AONIC 50,299.0,1,HEADPHONES,Shure,google_pay,No,Ana Barnes,FEMALE,Glasgow,20,5
+41662366,2024-02-21,Sony Xperia 1 V,989.1,2,PHONES,Sony,qiwi,Yes,Catherine Martinez,FEMALE,Glasgow,31,4
+55265133,2024-02-21,Nothing Phone (2),599.0,1,PHONES,Nothing,apple_pay,No,Kimberly Vance,FEMALE,Birmingham,26,2
+25564792,2024-02-22,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,card,No,Donna Finley,FEMALE,London,18,3
+55343664,2024-02-22,Samsung Galaxy Tab A8,229.99,1,TABLETS,Samsung,cash,No,Jessica Moss,FEMALE,London,31,4
+40312224,2024-02-24,Sony Xperia 1 V,1099.0,1,PHONES,Sony,google_pay,No,Rachel Taylor,FEMALE,Birmingham,47,4
+65288108,2024-02-24,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,card,No,Christy Lam,FEMALE,London,21,5
+36541034,2024-02-24,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,paypal,No,Theresa Peters,FEMALE,London,44,4
+51557980,2024-02-25,Samsung Galaxy A54,449.0,1,PHONES,Samsung,card,No,Mrs. Alicia Briggs DVM,FEMALE,Leeds,18,5
+36083039,2024-02-25,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,google_pay,No,Lonnie Moore,MALE,Leeds,27,4
+46361677,2024-02-26,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,google_pay,No,Katie Griffith,FEMALE,Coventry,25,4
+69576157,2024-02-26,Samsung Galaxy Tab A8,229.99,1,TABLETS,Samsung,paypal,No,Kimberly Swanson,FEMALE,London,26,3
+35683179,2024-02-27,Sony WH-1000XM5,359.99,1,HEADPHONES,Sony,google_pay,Yes,Amanda Henry,FEMALE,Glasgow,28,4
+06432034,2024-02-27,Shure AONIC 50,299.0,1,HEADPHONES,Shure,google_pay,No,Michael Miller,MALE,Reading,42,5
+84653352,2024-02-27,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,paypal,No,Andrew Newman,MALE,London,37,2
+06651503,2024-02-27,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,qiwi,No,Tiffany Kelly,FEMALE,London,40,3
+52955815,2024-02-28,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,apple_pay,No,Hannah George,FEMALE,London,18,4
+42068266,2024-02-29,Google Pixel 8 Pro,999.0,1,PHONES,Google,paypal,No,Heidi Rios,FEMALE,Edinburgh,29,3
+28857341,2024-02-29,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,card,No,Mary Bailey DDS,FEMALE,London,44,5
+90055225,2024-03-01,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,paypal,No,Sherri Fernandez,FEMALE,Birmingham,51,5
+42268604,2024-03-01,Asus ROG Zephyrus G14,1599.0,1,COMPUTERS,Asus,card,No,Gary Smith,MALE,London,31,4
+27568248,2024-03-02,Apple AirPods Pro (2nd gen),224.1,1,HEADPHONES,Apple,cash,Yes,Sheila Garcia,FEMALE,Birmingham,24,3
+97368755,2024-03-03,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,paypal,No,Erin Pearson,FEMALE,Leeds,43,4
+11620273,2024-03-04,Acer Swift 3,699.0,1,COMPUTERS,Acer,qiwi,No,Robin Rodriguez,FEMALE,Leeds,59,5
+33627403,2024-03-04,Asus ROG Zephyrus G14,1599.0,1,COMPUTERS,Asus,qiwi,No,Julie Riley,FEMALE,Birmingham,18,3
+64406527,2024-03-04,Xiaomi 14 Pro,629.1,1,PHONES,Xiaomi,paypal,Yes,Deanna Owens,FEMALE,London,52,5
+80330349,2024-03-05,Lenovo Tab P12 Pro,629.1,1,TABLETS,Lenovo,card,Yes,Renee Johnson,FEMALE,London,36,4
+92848122,2024-03-06,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Allison Reeves,FEMALE,Glasgow,35,5
+86439374,2024-03-06,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,google_pay,No,Tina Schmidt,FEMALE,Leeds,57,5
+31143172,2024-03-07,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,cash,No,Jessica Gonzalez,FEMALE,London,26,4
+08907332,2024-03-08,HP Spectre x360,1199.99,1,COMPUTERS,HP,paypal,No,Amy Wiggins,FEMALE,Birmingham,29,3
+43305063,2024-03-08,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,qiwi,No,Melissa Gonzales,FEMALE,Glasgow,41,4
+01595208,2024-03-08,Google Pixel 8 Pro,999.0,1,PHONES,Google,card,No,Penny Johnson,FEMALE,London,44,2
+36804832,2024-03-09,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,qiwi,No,Desiree Buchanan,FEMALE,London,31,4
+48419567,2024-03-09,Samsung Galaxy Tab S9,899.99,2,TABLETS,Samsung,paypal,No,Joann Ochoa,FEMALE,London,22,3
+37425654,2024-03-11,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,paypal,No,Sarah Woods,FEMALE,London,33,4
+22311450,2024-03-13,Beats Studio Pro,349.0,1,HEADPHONES,Beats,card,No,Karen Roberts,FEMALE,London,26,4
+87354768,2024-03-13,Jabra Elite 7 Pro,199.0,1,HEADPHONES,Jabra,card,No,Jackson Richmond,MALE,London,46,5
+03111260,2024-03-13,Sony Xperia 1 V,1099.0,1,PHONES,Sony,paypal,No,Nicole Bruce,FEMALE,London,35,4
+83288517,2024-03-14,Beats Studio Pro,349.0,1,HEADPHONES,Beats,card,No,Jordan Mason,FEMALE,London,22,5
+88774329,2024-03-14,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,google_pay,No,Theresa White,FEMALE,London,29,4
+90021176,2024-03-15,OnePlus 12,799.99,1,PHONES,OnePlus,qiwi,No,Catherine Barker,FEMALE,Liverpool,18,4
+32661620,2024-03-15,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,apple_pay,No,Natalie Elliott,FEMALE,London,27,5
+16343306,2024-03-16,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,apple_pay,No,Mark Nelson,MALE,London,43,4
+22087997,2024-03-16,Sony WH-1000XM5,399.99,1,HEADPHONES,Sony,google_pay,No,Kimberly Edwards,FEMALE,London,54,4
+59174028,2024-03-17,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,cash,No,Krista Guerra,FEMALE,London,42,4
+31439732,2024-03-17,Nothing Phone (2),599.0,3,PHONES,Nothing,apple_pay,No,Christopher Fowler,MALE,Aberdeen,50,3
+95885612,2024-03-19,Jabra Elite 7 Pro,199.0,1,HEADPHONES,Jabra,card,No,Amanda Griffin,FEMALE,Liverpool,31,4
+09610521,2024-03-19,"Apple iMac 24""",1169.1,1,COMPUTERS,Apple,apple_pay,Yes,Amy Townsend,FEMALE,London,35,3
+58764824,2024-03-19,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Paul Wright,MALE,Coventry,37,3
+95272757,2024-03-19,Sony WH-1000XM5,399.99,1,HEADPHONES,Sony,google_pay,No,Mary Hale,FEMALE,London,30,3
+06368609,2024-03-20,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Patricia Kemp,FEMALE,London,27,4
+66338093,2024-03-21,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,apple_pay,No,Alicia Moore,FEMALE,London,18,4
+83341045,2024-03-21,MSI Katana GF66,899.99,1,COMPUTERS,MSI,card,No,Meagan Thornton,FEMALE,Leeds,43,4
+95351490,2024-03-22,Canon PIXMA TR8620a,199.99,2,PRINTERS,Canon,apple_pay,No,Kelly Castro,FEMALE,London,50,4
+51430542,2024-03-23,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,paypal,No,Misty Moreno,FEMALE,London,24,3
+61230330,2024-03-24,HP Spectre x360,1199.99,1,COMPUTERS,HP,google_pay,No,Hannah Thomas,FEMALE,Liverpool,19,3
+57899954,2024-03-24,Brother MFC-J4335DW,179.0,2,PRINTERS,Brother,google_pay,No,Sharon Berry,FEMALE,Birmingham,26,4
+19005669,2024-03-25,Canon PIXMA TR8620a,199.99,1,PRINTERS,Canon,google_pay,No,Juan Scott,MALE,Liverpool,51,3
+51229849,2024-03-25,Apple iPhone SE (2022),429.0,1,PHONES,Apple,google_pay,No,Janet Barnett,FEMALE,Birmingham,56,3
+89507391,2024-03-26,HP OfficeJet Pro 9015e,206.1,1,PRINTERS,HP,qiwi,Yes,Samantha Vang,FEMALE,Birmingham,35,4
+96561249,2024-03-26,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,card,No,Kara Cohen,FEMALE,Birmingham,53,3
+26593586,2024-03-27,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,google_pay,No,Jasmine Lane,FEMALE,London,52,5
+04122661,2024-03-28,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,paypal,No,Jeffrey Kirby,MALE,London,39,4
+12065073,2024-03-29,Nothing Phone (2),599.0,1,PHONES,Nothing,paypal,No,Melissa Green,FEMALE,London,29,3
+51070267,2024-03-29,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,card,No,Laura Johnson,FEMALE,London,55,4
+23457669,2024-03-29,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,card,No,Danielle White,FEMALE,Edinburgh,47,5
+59915270,2024-03-30,Sony Xperia 1 V,989.1,1,PHONES,Sony,google_pay,Yes,Melissa Charles,FEMALE,London,43,4
+91824523,2024-03-30,Canon PIXMA TR8620a,199.99,1,PRINTERS,Canon,paypal,No,Ashley Frederick,FEMALE,London,55,4
+35468134,2024-03-30,Samsung Galaxy A54,449.0,1,PHONES,Samsung,paypal,No,Laura Taylor,FEMALE,London,36,3
+70520446,2024-04-01,Samsung Galaxy A54,449.0,1,PHONES,Samsung,card,No,Amanda Wyatt,FEMALE,London,38,5
+86484480,2024-04-06,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,google_pay,No,Angela Gregory,FEMALE,Edinburgh,44,3
+94612790,2024-04-06,Google Pixel 8 Pro,999.0,2,PHONES,Google,card,No,Dr. Linda Pennington,FEMALE,Liverpool,40,5
+26866253,2024-04-07,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,paypal,No,Howard Reynolds,MALE,Birmingham,41,3
+06946005,2024-04-07,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,cash,No,Mikayla Lucero,FEMALE,Glasgow,30,4
+72649404,2024-04-08,Acer Swift 3,699.0,1,COMPUTERS,Acer,card,No,Joseph Lambert,MALE,London,40,4
+59300786,2024-04-11,Google Pixel 8 Pro,899.1,1,PHONES,Google,qiwi,Yes,Megan Ramirez,FEMALE,London,38,4
+93612623,2024-04-12,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,google_pay,No,Joanna Haynes,FEMALE,Leeds,28,5
+09401655,2024-04-13,Nothing Phone (2),599.0,1,PHONES,Nothing,apple_pay,No,Shelly Glenn,FEMALE,London,38,4
+27395554,2024-04-14,Samsung Galaxy A54,449.0,2,PHONES,Samsung,card,No,Amanda Hodge,FEMALE,Leeds,33,4
+12782536,2024-04-14,Canon PIXMA TR8620a,199.99,1,PRINTERS,Canon,google_pay,No,Katrina Juarez,FEMALE,Birmingham,53,3
+80061267,2024-04-15,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,qiwi,No,Samantha Brown,FEMALE,London,37,5
+23328839,2024-04-15,"Apple iMac 24""",1299.0,1,COMPUTERS,Apple,paypal,No,John Bernard,MALE,Leeds,49,4
+81042791,2024-04-15,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,card,No,Wyatt Daniels,MALE,Liverpool,27,4
+29694013,2024-04-16,Apple iPhone SE (2022),429.0,1,PHONES,Apple,paypal,No,Taylor Wright,FEMALE,Birmingham,30,4
+62480147,2024-04-16,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,apple_pay,No,Ronald Buchanan,MALE,Edinburgh,20,4
+59520245,2024-04-17,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,google_pay,Yes,Cynthia Green,FEMALE,London,40,4
+00793162,2024-04-18,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,apple_pay,No,Mrs. Melanie Shepherd MD,FEMALE,Coventry,50,4
+30756205,2024-04-19,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,google_pay,No,Allison Swanson,FEMALE,London,40,5
+11861690,2024-04-20,Apple iPad Air,599.0,1,TABLETS,Apple,paypal,No,Melissa Mitchell,FEMALE,London,38,5
+70789492,2024-04-20,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,card,No,Katherine Price,FEMALE,Edinburgh,36,4
+54881365,2024-04-21,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,qiwi,No,Caroline Herman,FEMALE,Liverpool,42,5
+85176713,2024-04-21,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Taylor Rodgers,FEMALE,London,26,5
+10892343,2024-04-22,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,qiwi,No,Lisa Harper,FEMALE,London,18,5
+94412024,2024-04-22,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,google_pay,No,Kelly Edwards,FEMALE,London,36,2
+56175929,2024-04-22,HP Spectre x360,1199.99,1,COMPUTERS,HP,google_pay,No,Amy Hayden,FEMALE,London,26,5
+21949449,2024-04-23,Asus ROG Zephyrus G14,1599.0,1,COMPUTERS,Asus,google_pay,No,Ashley Burch,FEMALE,London,38,3
+10203002,2024-04-24,Samsung Galaxy A54,449.0,1,PHONES,Samsung,card,No,Tara Weber,FEMALE,London,32,5
+60355362,2024-04-25,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,google_pay,No,Douglas Smith,MALE,London,20,3
+76178382,2024-04-26,Jabra Elite 7 Pro,199.0,1,HEADPHONES,Jabra,cash,No,Steven Miller,MALE,London,42,5
+98054848,2024-04-28,Xiaomi Pad 6,399.99,1,TABLETS,Xiaomi,card,No,Tiffany Ferrell,FEMALE,Birmingham,26,5
+76957925,2024-05-01,Acer Swift 3,699.0,1,COMPUTERS,Acer,google_pay,No,Michael Schwartz,MALE,Edinburgh,58,3
+80780205,2024-05-01,Nothing Phone (2),599.0,1,PHONES,Nothing,google_pay,No,Brianna Young,FEMALE,London,18,5
+60026668,2024-05-01,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,qiwi,No,Jennifer Boyd,FEMALE,London,32,4
+81929559,2024-05-01,HP Pavilion 15,749.0,1,COMPUTERS,HP,card,No,Samantha Cooper,FEMALE,Liverpool,20,3
+98312467,2024-05-02,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,paypal,No,Karen Garcia,FEMALE,Birmingham,57,3
+12566495,2024-05-02,Jabra Elite 7 Pro,179.1,1,HEADPHONES,Jabra,google_pay,Yes,Melinda Harris,FEMALE,Birmingham,35,3
+66672111,2024-05-03,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,google_pay,No,Leslie Cantrell,FEMALE,Birmingham,18,3
+32120462,2024-05-03,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,google_pay,No,Stephanie Munoz,FEMALE,London,41,4
+19951140,2024-05-03,Samsung Galaxy A54,449.0,1,PHONES,Samsung,google_pay,No,Joshua Salas,MALE,Leeds,34,5
+42791126,2024-05-05,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,google_pay,No,Katherine Brown,FEMALE,Liverpool,34,4
+97732280,2024-05-05,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,qiwi,No,Derek White,MALE,London,21,5
+38895913,2024-05-06,Samsung Galaxy A54,404.1,1,PHONES,Samsung,qiwi,Yes,Lisa Jackson,FEMALE,London,44,5
+18641493,2024-05-06,Canon PIXMA TR8620a,199.99,1,PRINTERS,Canon,paypal,No,Kevin Glover,MALE,London,47,1
+16546080,2024-05-07,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,paypal,No,Tina Mcneil,FEMALE,Plymouth,29,5
+32217889,2024-05-09,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,qiwi,No,Sandy Brewer,FEMALE,Coventry,19,4
+40508955,2024-05-09,HP LaserJet Pro M404dn,206.99,1,PRINTERS,HP,card,Yes,Teresa Keith,FEMALE,Liverpool,43,4
+79233002,2024-05-09,HP Spectre x360,1199.99,1,COMPUTERS,HP,card,No,William Smith,MALE,Liverpool,31,4
+16823327,2024-05-10,Samsung Galaxy A54,449.0,1,PHONES,Samsung,paypal,No,John Harris,MALE,London,26,3
+65565513,2024-05-10,Brother HL-L2350DW,134.99,1,PRINTERS,Brother,card,Yes,Justin Jones,MALE,Birmingham,25,3
+80888581,2024-05-11,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,card,No,Monica Hicks,FEMALE,London,18,3
+67355105,2024-05-13,MSI Katana GF66,899.99,1,COMPUTERS,MSI,card,No,Lisa Bean,FEMALE,London,29,4
+33007465,2024-05-14,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,google_pay,No,Mark Heath,MALE,London,18,5
+02531571,2024-05-15,Google Pixel 8 Pro,999.0,1,PHONES,Google,qiwi,No,Lawrence Miller,MALE,London,18,4
+66378457,2024-05-16,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,card,No,Lisa Wilson,FEMALE,Birmingham,18,3
+08854070,2024-05-17,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Laura Gould,FEMALE,Birmingham,31,4
+44845575,2024-05-18,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Sydney Williams,FEMALE,London,51,5
+52073328,2024-05-18,Asus ROG Flow Z13,1529.99,2,TABLETS,Asus,google_pay,Yes,Matthew Irwin,MALE,London,32,4
+24238571,2024-05-19,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,card,No,Brianna Hopkins,FEMALE,Leeds,42,5
+90459498,2024-05-20,OnePlus 12,799.99,1,PHONES,OnePlus,google_pay,No,Crystal Harrison,FEMALE,London,39,4
+84433749,2024-05-20,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,apple_pay,No,Katherine Howard,FEMALE,London,28,4
+59448419,2024-05-20,Asus ROG Flow Z13,1529.99,1,TABLETS,Asus,card,Yes,Sara Reynolds,FEMALE,London,31,4
+43859665,2024-05-21,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,paypal,No,Ms. Shannon Herrera,FEMALE,London,26,3
+98177974,2024-05-22,Dell XPS 13,1299.99,1,COMPUTERS,Dell,card,No,Teresa Vargas,FEMALE,Glasgow,61,5
+47264199,2024-05-22,Acer Swift 3,699.0,1,COMPUTERS,Acer,google_pay,No,Jennifer Donovan,FEMALE,Glasgow,32,4
+27615133,2024-05-23,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,qiwi,No,Mike Clark,MALE,London,43,3
+45454806,2024-05-24,Sennheiser Momentum 4,349.99,2,HEADPHONES,Sennheiser,google_pay,No,Jacqueline Berry,FEMALE,Leeds,35,3
+43358144,2024-05-24,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,paypal,No,Kathy Bruce,FEMALE,Birmingham,29,4
+16084728,2024-05-25,Shure AONIC 50,299.0,1,HEADPHONES,Shure,paypal,No,Lauren Morrison,FEMALE,London,37,4
+47430563,2024-05-27,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,card,No,Sharon Williams,FEMALE,Leeds,49,5
+34203422,2024-05-28,"Apple iMac 24""",1299.0,1,COMPUTERS,Apple,google_pay,No,Joann Jackson,FEMALE,London,35,4
+68024079,2024-05-29,Sony Xperia 1 V,1099.0,1,PHONES,Sony,card,No,Lisa Barajas,FEMALE,London,47,5
+44432775,2024-05-29,HP Pavilion 15,749.0,1,COMPUTERS,HP,google_pay,No,Christopher Bennett,MALE,Birmingham,33,5
+04790709,2024-05-31,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,google_pay,No,Kimberly Jackson,FEMALE,London,23,4
+16865532,2024-05-31,Shure AONIC 50,299.0,1,HEADPHONES,Shure,card,No,Jason Wilson,MALE,Liverpool,40,4
+99275228,2024-05-31,Beats Studio Pro,349.0,1,HEADPHONES,Beats,apple_pay,No,Jennifer Beltran,FEMALE,London,41,4
+06784454,2024-05-31,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,google_pay,No,Michael Marquez,MALE,Birmingham,37,5
+65349410,2024-06-02,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,apple_pay,No,Mrs. Nancy Jones,FEMALE,Glasgow,18,3
+04254430,2024-06-02,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,apple_pay,No,Sarah Perez,FEMALE,Leeds,36,5
+21943362,2024-06-04,Google Pixel 8 Pro,999.0,1,PHONES,Google,paypal,No,Sandra Anderson,FEMALE,London,47,3
+39999139,2024-06-04,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,apple_pay,No,Ashley Hawkins,FEMALE,Leeds,70,4
+02453347,2024-06-05,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,card,No,Jessica Hess,FEMALE,Coventry,49,5
+10278048,2024-06-05,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,google_pay,No,Nicole Carter,FEMALE,Edinburgh,29,4
+55686075,2024-06-07,Shure AONIC 50,299.0,1,HEADPHONES,Shure,paypal,No,Abigail Murphy,FEMALE,London,18,5
+48417594,2024-06-07,Sennheiser Momentum 4,314.99,1,HEADPHONES,Sennheiser,google_pay,Yes,Victoria Parks,FEMALE,Liverpool,28,5
+84984944,2024-06-08,Google Pixel 8 Pro,999.0,1,PHONES,Google,qiwi,No,Jonathan Koch,MALE,Birmingham,30,5
+92856790,2024-06-08,HP Pavilion 15,674.1,1,COMPUTERS,HP,google_pay,Yes,Brian Foster,MALE,Birmingham,47,4
+10575024,2024-06-08,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,cash,No,Scott Newman,MALE,Plymouth,36,5
+74333813,2024-06-09,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,google_pay,No,Jay Wilson,MALE,London,52,5
+26218069,2024-06-09,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,apple_pay,No,Glenn Bailey,MALE,Leeds,34,4
+60178466,2024-06-10,Lexmark MB3442adw,379.0,3,PRINTERS,Lexmark,qiwi,No,Cody Maldonado,MALE,London,36,5
+18234299,2024-06-11,Apple AirPods Pro (2nd gen),249.0,1,HEADPHONES,Apple,google_pay,No,Alyssa Ramirez,FEMALE,London,31,5
+47597228,2024-06-12,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,google_pay,No,Sarah Davis,FEMALE,Leeds,50,4
+92295834,2024-06-13,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,card,No,Jason Scott,MALE,London,24,4
+78097209,2024-06-14,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,card,No,Mrs. Amy King,FEMALE,London,31,4
+92616479,2024-06-15,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,card,No,Melanie Wyatt,FEMALE,London,46,5
+38503573,2024-06-16,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,cash,No,Anthony Sanchez,MALE,London,26,5
+17973168,2024-06-17,Logitech G Pro X Wireless,229.0,2,HEADPHONES,Logitech,card,No,Pamela Mayer,FEMALE,Liverpool,18,4
+49515664,2024-06-18,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,cash,No,Amanda Stephens,FEMALE,London,31,4
+36950843,2024-06-18,"Apple iMac 24""",1299.0,2,COMPUTERS,Apple,google_pay,No,Melanie Chang,FEMALE,London,32,5
+46205421,2024-06-20,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,google_pay,No,Dr. Tiffany Sims,FEMALE,Glasgow,35,4
+41272084,2024-06-21,Xiaomi 14 Pro,699.0,2,PHONES,Xiaomi,google_pay,No,Kimberly Kim,FEMALE,Leeds,31,3
+93053631,2024-06-21,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,google_pay,No,Justin Lopez,MALE,London,26,3
+92426580,2024-06-21,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Kathryn Taylor,FEMALE,Birmingham,47,3
+63664737,2024-06-22,Epson WorkForce WF-2930,134.1,1,PRINTERS,Epson,qiwi,Yes,Alexis Barrera,FEMALE,Coventry,20,4
+28232490,2024-06-22,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,paypal,No,Benjamin Logan,MALE,Birmingham,29,4
+58323717,2024-06-23,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,apple_pay,No,Valerie Wilkins,FEMALE,Edinburgh,35,3
+62309608,2024-06-23,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,card,No,Lisa Haynes,FEMALE,London,28,3
+50769759,2024-06-23,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,qiwi,No,Brooke Ray,FEMALE,Plymouth,45,3
+68122652,2024-06-24,HP Pavilion 15,749.0,1,COMPUTERS,HP,qiwi,No,Brandy Mullins,FEMALE,Birmingham,29,4
+80660590,2024-06-26,Epson WorkForce WF-2930,149.0,1,PRINTERS,Epson,paypal,No,William Bryant,MALE,Edinburgh,30,3
+32360431,2024-06-27,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,google_pay,No,Kimberly Schneider,FEMALE,London,38,5
+08044860,2024-06-27,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,google_pay,No,Joseph Montoya,MALE,Edinburgh,39,4
+72375280,2024-06-27,Sony Xperia 1 V,1099.0,1,PHONES,Sony,cash,No,Danielle Michael DDS,FEMALE,Leeds,53,4
+72842287,2024-06-27,Apple iPad Air,599.0,1,TABLETS,Apple,paypal,No,Krista Sheppard,FEMALE,Reading,18,4
+00242424,2024-06-27,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,apple_pay,No,Jennifer Fields,FEMALE,London,64,4
+54645332,2024-06-27,MSI Katana GF66,899.99,1,COMPUTERS,MSI,paypal,No,Taylor Davis,MALE,Leeds,25,5
+57714653,2024-06-29,Asus ROG Zephyrus G14,1439.1,1,COMPUTERS,Asus,google_pay,Yes,Angela Hughes,FEMALE,Birmingham,48,4
+80411949,2024-06-30,Anker Soundcore Life Q35,129.99,1,HEADPHONES,Anker,card,No,Steven Berry,MALE,Coventry,51,5
+33528250,2024-06-30,OnePlus 12,799.99,1,PHONES,OnePlus,qiwi,No,Amanda Hughes,FEMALE,Coventry,45,3
+74060535,2024-06-30,Microsoft Surface Pro 9,999.99,2,TABLETS,Microsoft,apple_pay,No,Susan Carey,FEMALE,Edinburgh,18,4
+20206697,2024-06-30,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,apple_pay,No,Charles Carson,MALE,London,30,4
+98408559,2024-07-01,Canon imageCLASS MF264dw,170.99,1,PRINTERS,Canon,qiwi,Yes,Sandra Hunt MD,FEMALE,Liverpool,25,4
+90269721,2024-07-02,"Apple iMac 24""",1299.0,1,COMPUTERS,Apple,google_pay,No,Marissa Brooks,FEMALE,Birmingham,29,5
+17867887,2024-07-02,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,google_pay,No,Katie Bryan,FEMALE,London,23,4
+01020533,2024-07-04,Google Pixel 8 Pro,999.0,1,PHONES,Google,cash,No,Susan Henry,FEMALE,Birmingham,48,5
+37085469,2024-07-05,MSI Katana GF66,899.99,1,COMPUTERS,MSI,paypal,No,Patricia Gregory,FEMALE,London,27,5
+70328295,2024-07-05,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,qiwi,No,Morgan Gould,FEMALE,Edinburgh,22,5
+74323425,2024-07-05,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,google_pay,No,Andrew Smith,MALE,Reading,47,4
+96723135,2024-07-06,Samsung Galaxy Tab A8,229.99,1,TABLETS,Samsung,paypal,No,Karen Scott,FEMALE,London,38,4
+01625592,2024-07-07,Logitech G Pro X Wireless,229.0,2,HEADPHONES,Logitech,apple_pay,No,Kathryn Cruz,FEMALE,London,61,5
+14529290,2024-07-10,Dell XPS 13,1299.99,1,COMPUTERS,Dell,card,No,Wendy Peterson,FEMALE,Leeds,31,5
+92416833,2024-07-12,Samsung Galaxy Tab A8,229.99,1,TABLETS,Samsung,card,No,Nicholas Vaughn,MALE,London,46,3
+30057753,2024-07-12,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,google_pay,No,Adriana Evans,FEMALE,London,28,4
+35437048,2024-07-13,HP OfficeJet Pro 9015e,206.1,1,PRINTERS,HP,google_pay,Yes,Ashley Schroeder,FEMALE,London,38,4
+23294622,2024-07-14,HP Spectre x360,1199.99,1,COMPUTERS,HP,google_pay,No,Rachel Smith,FEMALE,Edinburgh,27,3
+28196525,2024-07-17,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,google_pay,No,Tonya Nelson,FEMALE,London,31,4
+79268356,2024-07-17,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,google_pay,No,Taylor Curtis,FEMALE,London,40,4
+34226469,2024-07-17,Bose QuietComfort 45,329.99,1,HEADPHONES,Bose,apple_pay,No,Theresa Walker,FEMALE,Liverpool,29,4
+45364631,2024-07-18,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,paypal,No,Angela Fields,FEMALE,Birmingham,34,4
+95520315,2024-07-18,Shure AONIC 50,299.0,1,HEADPHONES,Shure,card,No,Kelly Warren,FEMALE,Edinburgh,18,3
+28039808,2024-07-19,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,google_pay,No,Susan Oconnor,FEMALE,Edinburgh,41,4
+27188576,2024-07-21,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,qiwi,No,Ann Long,FEMALE,London,43,3
+75205454,2024-07-21,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,google_pay,No,Sarah Martinez,FEMALE,London,30,4
+32331776,2024-07-22,HP Spectre x360,1199.99,1,COMPUTERS,HP,card,No,Elizabeth Valentine DVM,FEMALE,Leeds,18,4
+15578990,2024-07-23,Motorola Edge 40 Pro,699.99,2,PHONES,Motorola,google_pay,No,Laurie Smith,FEMALE,Glasgow,39,5
+76176272,2024-07-24,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,apple_pay,No,Alexis Cruz,FEMALE,London,40,5
+30802308,2024-07-24,OnePlus 12,799.99,1,PHONES,OnePlus,paypal,No,Sara Rhodes,FEMALE,Birmingham,36,4
+59462699,2024-07-24,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,qiwi,No,Stephanie Cox,FEMALE,Liverpool,26,4
+43337767,2024-07-25,OnePlus 12,799.99,1,PHONES,OnePlus,apple_pay,No,Amy Campbell DDS,FEMALE,London,18,4
+28277774,2024-07-25,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,google_pay,No,Heidi Smith,FEMALE,Birmingham,33,5
+65849958,2024-07-26,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,paypal,No,Daniel Martinez,MALE,Birmingham,46,3
+63095227,2024-07-26,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,google_pay,No,Stephanie Brown,FEMALE,London,25,5
+81819799,2024-07-26,Nothing Phone (2),599.0,1,PHONES,Nothing,card,No,Adam Burke,MALE,Edinburgh,32,5
+00437806,2024-07-26,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,qiwi,No,Tanya Nguyen,FEMALE,Leeds,46,3
+83046469,2024-07-27,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,paypal,No,Theresa Summers,FEMALE,Glasgow,39,5
+26532424,2024-07-27,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,apple_pay,No,Mary Myers,FEMALE,London,26,4
+23537668,2024-07-27,Shure AONIC 50,299.0,1,HEADPHONES,Shure,paypal,No,John Davis,MALE,London,29,3
+13354794,2024-07-29,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,paypal,No,Mallory Atkinson,FEMALE,Leeds,18,3
+63260038,2024-07-29,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,google_pay,No,Sara Clark,FEMALE,London,18,4
+70072891,2024-07-30,Jabra Elite 7 Pro,199.0,1,HEADPHONES,Jabra,paypal,No,Pamela Morris,FEMALE,Leeds,23,4
+93270618,2024-07-31,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Marcus Guerrero,MALE,London,65,5
+05402762,2024-08-01,Sony Xperia 1 V,1099.0,1,PHONES,Sony,google_pay,No,Denise Morrison,FEMALE,London,37,3
+98293520,2024-08-03,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,google_pay,No,Nicole Arroyo,FEMALE,London,29,3
+74096152,2024-08-03,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,google_pay,No,Ashley Patterson,FEMALE,Birmingham,48,5
+56362596,2024-08-03,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,card,No,Regina Fisher,FEMALE,Liverpool,46,5
+74929788,2024-08-07,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,card,No,Gabriela Smith,FEMALE,Edinburgh,33,4
+11791188,2024-08-07,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,apple_pay,No,Katelyn Farley,FEMALE,Aberdeen,47,3
+56995817,2024-08-07,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,paypal,No,Lori Martin,FEMALE,London,46,4
+27832783,2024-08-07,Beats Studio Pro,314.1,1,HEADPHONES,Beats,cash,Yes,Jennifer Rodriguez,FEMALE,Leeds,48,5
+86523851,2024-08-08,Nothing Phone (2),539.1,1,PHONES,Nothing,card,Yes,Nancy Reyes,FEMALE,Edinburgh,42,4
+56048698,2024-08-09,Sony WH-1000XM5,399.99,1,HEADPHONES,Sony,card,No,Sara Moore,FEMALE,London,63,3
+68125776,2024-08-10,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,card,No,Paula Noble,FEMALE,Glasgow,56,4
+73421108,2024-08-11,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,google_pay,No,Richard Hernandez,MALE,Leeds,57,4
+20656867,2024-08-12,Microsoft Surface Laptop 5,989.99,1,COMPUTERS,Microsoft,google_pay,Yes,Sara Combs,FEMALE,London,24,4
+59360070,2024-08-12,Xiaomi 14 Pro,629.1,1,PHONES,Xiaomi,google_pay,Yes,Amanda Mccann,FEMALE,Edinburgh,29,5
+45692857,2024-08-13,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,paypal,No,Michele Mcintosh,FEMALE,London,18,5
+28351627,2024-08-14,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,google_pay,No,Justin Mann,MALE,Glasgow,46,3
+60966933,2024-08-14,Sony Xperia 1 V,1099.0,1,PHONES,Sony,qiwi,No,Jessica Walker,FEMALE,Glasgow,43,4
+23123397,2024-08-16,Sony Xperia 1 V,1099.0,1,PHONES,Sony,cash,No,Thomas Wiley,MALE,Birmingham,40,4
+75706173,2024-08-17,Nothing Phone (2),599.0,1,PHONES,Nothing,google_pay,No,Scott Wu,MALE,Birmingham,18,5
+61349599,2024-08-18,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,qiwi,No,Michael Byrd,MALE,Glasgow,46,5
+16197619,2024-08-20,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Denise Hale,FEMALE,Glasgow,22,4
+57147215,2024-08-21,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,qiwi,No,Haley Guerrero,FEMALE,London,42,5
+13055936,2024-08-22,OnePlus 12,799.99,1,PHONES,OnePlus,apple_pay,No,Angelica Hull,FEMALE,Birmingham,23,5
+59781332,2024-08-22,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,paypal,No,Deanna Oneal,FEMALE,London,30,4
+27865552,2024-08-23,Logitech G Pro X Wireless,229.0,1,HEADPHONES,Logitech,apple_pay,No,Julie Ray,FEMALE,London,27,4
+04483816,2024-08-23,Samsung Galaxy A54,449.0,1,PHONES,Samsung,card,No,Tracy Clark,FEMALE,Edinburgh,26,4
+83650079,2024-08-23,Samsung Galaxy A54,449.0,1,PHONES,Samsung,paypal,No,Tammy Roberts,FEMALE,London,50,4
+77946775,2024-08-24,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,google_pay,No,Tina Heath,FEMALE,London,45,4
+86549110,2024-08-24,Samsung Galaxy A54,449.0,1,PHONES,Samsung,qiwi,No,Victoria Houston,FEMALE,London,27,3
+24029995,2024-08-25,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,google_pay,No,Kyle Wilkerson,MALE,London,29,4
+13560027,2024-08-26,HP Pavilion 15,749.0,1,COMPUTERS,HP,card,No,Linda Figueroa,FEMALE,Edinburgh,41,3
+71506920,2024-08-26,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,qiwi,No,Cynthia Lindsey,FEMALE,London,52,5
+01447392,2024-08-27,Logitech G Pro X Wireless,206.1,1,HEADPHONES,Logitech,google_pay,Yes,Erica Leonard,FEMALE,Glasgow,20,5
+56626476,2024-08-28,Nothing Phone (2),599.0,1,PHONES,Nothing,qiwi,No,Sarah Leonard,FEMALE,Birmingham,35,2
+28861652,2024-08-28,Dell XPS 13,1299.99,1,COMPUTERS,Dell,card,No,Jesus Sanders,MALE,London,56,5
+09708945,2024-08-28,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,apple_pay,No,Rose Rogers,FEMALE,Glasgow,18,3
+24520799,2024-08-28,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,paypal,No,Kaitlin Turner,FEMALE,London,18,5
+04918363,2024-08-29,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,card,No,Melissa Thomas,FEMALE,Leeds,43,5
+64635309,2024-08-29,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,paypal,No,Leslie Duke,MALE,Leeds,29,3
+96336571,2024-09-02,Lexmark MB3442adw,379.0,2,PRINTERS,Lexmark,google_pay,No,Kimberly Miller,FEMALE,Birmingham,40,3
+85464148,2024-09-02,HP Spectre x360,1199.99,1,COMPUTERS,HP,google_pay,No,Julia Schwartz,FEMALE,London,29,3
+49958539,2024-09-02,OnePlus 12,799.99,1,PHONES,OnePlus,google_pay,No,Briana Santos,FEMALE,London,47,4
+56420135,2024-09-03,"Apple MacBook Pro 14""",1999.99,2,COMPUTERS,Apple,google_pay,No,Kelly Murphy,FEMALE,London,35,4
+92553989,2024-09-04,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,google_pay,No,Lindsay Miller,FEMALE,London,41,5
+68383787,2024-09-04,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,card,No,Marie Wong,FEMALE,Glasgow,35,3
+46767356,2024-09-04,Sony Xperia 1 V,1099.0,1,PHONES,Sony,card,No,Kelsey Ramos,FEMALE,London,35,3
+15442154,2024-09-04,Jabra Elite 7 Pro,199.0,1,HEADPHONES,Jabra,google_pay,No,Bruce Lopez,MALE,London,29,4
+30603288,2024-09-05,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Jamie Fisher,FEMALE,London,38,4
+37876890,2024-09-06,Anker Soundcore Life Q35,129.99,1,HEADPHONES,Anker,card,No,Angela Banks,FEMALE,London,25,3
+05764372,2024-09-06,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,google_pay,No,Donna Costa,FEMALE,Liverpool,19,5
+96293928,2024-09-06,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,card,No,Nicole Stone,FEMALE,London,24,5
+80175537,2024-09-07,Nothing Phone (2),599.0,1,PHONES,Nothing,google_pay,No,Lisa Molina,FEMALE,Edinburgh,39,4
+34251546,2024-09-07,OnePlus 12,799.99,1,PHONES,OnePlus,cash,No,Pamela Lopez,FEMALE,Coventry,24,4
+90206863,2024-09-07,Lenovo Tab P12 Pro,699.0,1,TABLETS,Lenovo,apple_pay,No,Travis Williams,MALE,London,51,3
+83757563,2024-09-08,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,apple_pay,No,Sheila Lopez,FEMALE,London,44,5
+81879250,2024-09-09,HP Pavilion 15,749.0,1,COMPUTERS,HP,google_pay,No,Lisa Lucas,FEMALE,Liverpool,30,4
+22043740,2024-09-10,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,card,No,Emily Stout,FEMALE,Birmingham,18,4
+28393764,2024-09-10,Logitech G Pro X Wireless,229.0,1,HEADPHONES,Logitech,qiwi,No,Linda Obrien,FEMALE,London,24,4
+89368114,2024-09-11,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,card,No,Sandra Miller,FEMALE,Leeds,48,5
+04276692,2024-09-11,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,card,No,Brian Mercado DDS,MALE,Aberdeen,18,5
+87977738,2024-09-12,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,google_pay,Yes,Kathleen Schmidt,FEMALE,London,66,3
+49346985,2024-09-14,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,google_pay,No,Jeffery Davis,MALE,London,29,5
+53312396,2024-09-15,Nothing Phone (2),599.0,1,PHONES,Nothing,paypal,No,Kristin Russo,FEMALE,Glasgow,52,4
+51428037,2024-09-15,Epson WorkForce WF-2930,149.0,1,PRINTERS,Epson,paypal,No,Cynthia Ryan,FEMALE,London,18,3
+78618930,2024-09-15,Apple iPhone SE (2022),429.0,1,PHONES,Apple,google_pay,No,Erin Ortega,FEMALE,Liverpool,18,3
+28461821,2024-09-17,MSI Katana GF66,899.99,1,COMPUTERS,MSI,paypal,No,Jennifer Russell,FEMALE,London,27,4
+56618808,2024-09-18,Bose QuietComfort 45,329.99,1,HEADPHONES,Bose,google_pay,No,Edward Mccarthy,MALE,London,31,4
+35787822,2024-09-20,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,qiwi,No,Paula Walsh,FEMALE,Coventry,47,4
+99236571,2024-09-21,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,paypal,No,Amanda Morgan,FEMALE,London,38,5
+36183227,2024-09-21,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,google_pay,No,Gabrielle Washington,FEMALE,Plymouth,18,3
+97916901,2024-09-21,Nothing Phone (2),599.0,1,PHONES,Nothing,qiwi,No,Heather Hill,FEMALE,Leeds,44,4
+10531419,2024-09-22,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,google_pay,No,Charles Perez,MALE,London,20,4
+50553020,2024-09-26,Nothing Phone (2),599.0,1,PHONES,Nothing,card,No,Deborah Jones,FEMALE,Edinburgh,40,3
+85131248,2024-09-26,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,paypal,No,Melissa Parker,FEMALE,London,53,5
+15217516,2024-09-28,OnePlus 12,799.99,1,PHONES,OnePlus,cash,No,Jordan Rios MD,FEMALE,Reading,29,3
+68315320,2024-09-29,Nothing Phone (2),539.1,1,PHONES,Nothing,card,Yes,Lisa Andersen,FEMALE,Birmingham,38,3
+12772209,2024-10-01,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Douglas Mcmahon,MALE,London,54,5
+40562780,2024-10-01,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,google_pay,No,Joe Johnson,MALE,London,36,5
+76043574,2024-10-02,Nothing Phone (2),599.0,1,PHONES,Nothing,qiwi,No,Paul Cochran,MALE,Coventry,19,4
+02969190,2024-10-05,Xiaomi 14 Pro,629.1,1,PHONES,Xiaomi,cash,Yes,Dale Stokes,MALE,London,36,3
+21592775,2024-10-05,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,paypal,No,Jay Jones,MALE,Birmingham,26,4
+82352905,2024-10-06,Lenovo Tab P12 Pro,629.1,1,TABLETS,Lenovo,card,Yes,Brenda Peterson,FEMALE,London,24,4
+34811665,2024-10-08,Samsung Galaxy A54,404.1,1,PHONES,Samsung,qiwi,Yes,Alyssa Ross,FEMALE,London,41,5
+20277314,2024-10-08,Microsoft Surface Laptop 5,1099.99,2,COMPUTERS,Microsoft,google_pay,No,Robert Parsons,MALE,Aberdeen,45,4
+23328501,2024-10-09,Microsoft Surface Laptop 5,1099.99,2,COMPUTERS,Microsoft,google_pay,No,Kenneth Rodgers,MALE,London,50,5
+87143218,2024-10-09,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,paypal,No,Julie Reynolds,FEMALE,London,41,4
+60306968,2024-10-11,MSI Katana GF66,899.99,1,COMPUTERS,MSI,qiwi,No,Julie Davis,FEMALE,Birmingham,44,3
+71327785,2024-10-12,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,paypal,No,Lori Collier,FEMALE,Edinburgh,18,3
+52713392,2024-10-12,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,paypal,No,Maria Kennedy,FEMALE,Aberdeen,44,5
+90403057,2024-10-13,OnePlus 12,799.99,3,PHONES,OnePlus,qiwi,No,Erin Blackwell,FEMALE,Liverpool,40,3
+30566705,2024-10-14,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,card,No,Amanda Warren,FEMALE,London,55,5
+82037949,2024-10-14,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,apple_pay,No,Lori Gonzales,FEMALE,London,41,5
+76601996,2024-10-15,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,paypal,No,Terri Crosby,FEMALE,London,28,4
+72318003,2024-10-15,HP Spectre x360,1199.99,1,COMPUTERS,HP,cash,No,Jessica Hamilton,FEMALE,Liverpool,64,5
+15784766,2024-10-16,Samsung Galaxy A54,449.0,1,PHONES,Samsung,qiwi,No,Sandra Hart,FEMALE,Plymouth,42,4
+42832904,2024-10-19,Apple iPhone SE (2022),429.0,1,PHONES,Apple,google_pay,No,Amy Christensen,FEMALE,London,18,4
+91945389,2024-10-19,Xiaomi Pad 6,399.99,1,TABLETS,Xiaomi,paypal,No,Craig Acevedo,MALE,Leeds,37,4
+01826944,2024-10-19,MSI Katana GF66,899.99,1,COMPUTERS,MSI,paypal,No,Richard Mitchell,MALE,London,37,5
+37838461,2024-10-21,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,qiwi,No,Theresa Wall,FEMALE,Glasgow,39,4
+96952719,2024-10-22,Samsung Galaxy Tab A8,229.99,1,TABLETS,Samsung,paypal,No,Kara Watkins,FEMALE,Plymouth,44,5
+78210608,2024-10-23,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,card,No,April Harris,FEMALE,London,18,4
+59802082,2024-10-23,Microsoft Surface Pro 9,899.99,1,TABLETS,Microsoft,card,Yes,Oscar Williams,MALE,Birmingham,29,4
+55235457,2024-10-24,Bose QuietComfort 45,329.99,1,HEADPHONES,Bose,qiwi,No,Dana White,FEMALE,Birmingham,29,4
+07617300,2024-10-24,HP Spectre x360,1199.99,1,COMPUTERS,HP,card,No,Cathy Anderson,FEMALE,London,49,4
+98577415,2024-10-24,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,google_pay,No,Patty Gonzalez,FEMALE,Plymouth,18,4
+76604140,2024-10-25,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,google_pay,No,Cynthia Liu,FEMALE,Coventry,27,4
+68024376,2024-10-25,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,card,No,Sean Price,MALE,Aberdeen,25,3
+00362238,2024-10-25,Lenovo Tab P12 Pro,699.0,1,TABLETS,Lenovo,google_pay,No,Christina Garcia,FEMALE,Birmingham,40,4
+12058488,2024-10-26,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,paypal,No,Bonnie Mcmahon,FEMALE,Glasgow,52,5
+75557423,2024-10-27,Asus ROG Zephyrus G14,1599.0,2,COMPUTERS,Asus,google_pay,No,Jamie Walls,FEMALE,Liverpool,45,4
+82340377,2024-10-27,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,apple_pay,No,Natalie Owens,FEMALE,Leeds,32,5
+11652946,2024-10-28,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,card,No,Emily Mitchell,FEMALE,London,59,4
+61607101,2024-10-30,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,paypal,No,Wanda Simmons,FEMALE,Glasgow,55,3
+00254625,2024-10-31,HP Spectre x360,1199.99,2,COMPUTERS,HP,qiwi,No,Jean Mendez,FEMALE,London,27,4
+69178412,2024-11-01,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,card,No,Christina Conner,FEMALE,Birmingham,42,4
+27663172,2024-11-01,Lenovo Tab P12 Pro,699.0,1,TABLETS,Lenovo,google_pay,No,Micheal Holden,MALE,Edinburgh,18,3
+10704271,2024-11-02,Samsung Galaxy A54,449.0,1,PHONES,Samsung,qiwi,No,Erika Woods,FEMALE,Birmingham,21,5
+03970829,2024-11-02,HP Spectre x360,1199.99,1,COMPUTERS,HP,google_pay,No,William Lawson,MALE,Edinburgh,46,3
+56913323,2024-11-03,Sony Xperia 1 V,1099.0,1,PHONES,Sony,qiwi,No,Danielle Carter,FEMALE,Birmingham,40,2
+84939340,2024-11-04,Epson WorkForce WF-2930,149.0,1,PRINTERS,Epson,paypal,No,Jordan Adkins,FEMALE,Edinburgh,54,3
+94936476,2024-11-04,Canon PIXMA TR8620a,179.99,1,PRINTERS,Canon,qiwi,Yes,Cindy Nguyen,FEMALE,London,36,5
+08990242,2024-11-07,Shure AONIC 50,299.0,1,HEADPHONES,Shure,paypal,No,Micheal Myers MD,MALE,Birmingham,19,5
+68384395,2024-11-07,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,google_pay,No,Norma Munoz,FEMALE,London,18,5
+27444061,2024-11-08,OnePlus 12,799.99,1,PHONES,OnePlus,qiwi,No,Tammy Taylor,FEMALE,Leeds,64,5
+00473217,2024-11-08,MSI Katana GF66,899.99,1,COMPUTERS,MSI,qiwi,No,Laura Valdez DVM,FEMALE,Leeds,40,5
+00222099,2024-11-08,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,qiwi,No,Kayla Rodriguez,FEMALE,Aberdeen,42,5
+41669105,2024-11-10,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,card,No,Krista Garcia,FEMALE,Birmingham,48,5
+43429448,2024-11-10,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,google_pay,No,Danny Ferrell,MALE,London,19,4
+76710308,2024-11-10,Bose QuietComfort 45,329.99,1,HEADPHONES,Bose,paypal,No,Taylor Simpson,MALE,London,33,5
+21656521,2024-11-10,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,google_pay,No,William Riley,MALE,Leeds,47,5
+37533625,2024-11-11,Nothing Phone (2),599.0,1,PHONES,Nothing,google_pay,No,Larry Chandler,MALE,Coventry,32,5
+52867804,2024-11-11,Motorola Edge 40 Pro,629.99,1,PHONES,Motorola,card,Yes,Pamela Rhodes,FEMALE,Edinburgh,37,2
+93722544,2024-11-12,Acer Swift 3,699.0,1,COMPUTERS,Acer,card,No,Jeffrey Santana,MALE,London,18,4
+97302803,2024-11-12,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,google_pay,No,Donna Johnson,FEMALE,London,42,5
+85539570,2024-11-13,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,apple_pay,Yes,Debra Klein,FEMALE,Edinburgh,42,4
+92324565,2024-11-13,Sennheiser Momentum 4,349.99,2,HEADPHONES,Sennheiser,paypal,No,Mary Rodriguez,FEMALE,Reading,46,4
+00687270,2024-11-14,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,card,No,Phillip Pugh,MALE,London,53,4
+93277891,2024-11-14,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,apple_pay,No,Sharon Young,FEMALE,Glasgow,25,4
+89971970,2024-11-15,Google Pixel 8 Pro,999.0,1,PHONES,Google,paypal,No,Miss Stacy Grant,FEMALE,London,50,4
+73270843,2024-11-15,Nothing Phone (2),599.0,1,PHONES,Nothing,paypal,No,Latoya Hopkins,FEMALE,Coventry,39,3
+11945840,2024-11-15,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,google_pay,No,Holly Prince,FEMALE,Glasgow,28,3
+22041210,2024-11-15,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,google_pay,No,Christina Silva,FEMALE,London,29,3
+78589513,2024-11-16,HP OfficeJet Pro 9015e,206.1,1,PRINTERS,HP,qiwi,Yes,Brenda Weber,FEMALE,Birmingham,49,5
+58801765,2024-11-17,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,google_pay,No,Carol Thomas,FEMALE,Glasgow,36,4
+13649029,2024-11-17,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,apple_pay,No,Kaylee Wiley,FEMALE,London,19,4
+90185687,2024-11-17,Google Pixel 8 Pro,999.0,1,PHONES,Google,qiwi,No,Alexa Hicks,FEMALE,London,51,4
+28146964,2024-11-18,Apple iPhone SE (2022),429.0,1,PHONES,Apple,cash,No,Michelle Bryant,FEMALE,London,27,5
+17763523,2024-11-19,Xiaomi Pad 6,399.99,2,TABLETS,Xiaomi,card,No,Jennifer Brown,FEMALE,London,24,5
+50953509,2024-11-19,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,paypal,No,Jenny Evans,FEMALE,London,38,5
+33989884,2024-11-19,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,google_pay,No,Deanna Cox,FEMALE,Birmingham,45,5
+75019709,2024-11-19,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,google_pay,No,James Murphy,MALE,London,19,3
+77176622,2024-11-20,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,paypal,No,Carolyn Roberts,FEMALE,Glasgow,33,4
+67975099,2024-11-21,Kyocera ECOSYS P2235dw,199.0,1,PRINTERS,Kyocera,paypal,No,Randy Mercer,MALE,London,53,4
+41618851,2024-11-21,Asus ROG Zephyrus G14,1599.0,1,COMPUTERS,Asus,card,No,Jennifer Molina,FEMALE,Liverpool,37,4
+85125865,2024-11-22,Canon PIXMA TR8620a,199.99,1,PRINTERS,Canon,google_pay,No,Michael Anderson,MALE,London,25,4
+37674762,2024-11-23,Logitech G Pro X Wireless,229.0,1,HEADPHONES,Logitech,paypal,No,Stephanie Smith,FEMALE,Birmingham,19,5
+97334293,2024-11-23,Google Pixel 8 Pro,999.0,1,PHONES,Google,card,No,Kaitlyn Davies,FEMALE,London,22,3
+41940532,2024-11-24,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,cash,No,Kathleen Perez,FEMALE,London,39,4
+28528531,2024-11-26,Sony Xperia 1 V,1099.0,1,PHONES,Sony,cash,No,Kelly Richard,FEMALE,Liverpool,36,5
+10910696,2024-11-26,Anker Soundcore Life Q35,129.99,1,HEADPHONES,Anker,google_pay,No,Terry Wilson,FEMALE,London,18,3
+35653493,2024-11-27,OnePlus 12,799.99,2,PHONES,OnePlus,paypal,No,Terri Perez,FEMALE,Leeds,38,4
+61982666,2024-11-27,HP Pavilion 15,749.0,1,COMPUTERS,HP,card,No,Kelly Lamb,FEMALE,Liverpool,27,5
+57424613,2024-11-29,Samsung Galaxy A54,449.0,1,PHONES,Samsung,paypal,No,Chris Boyd,MALE,Plymouth,45,5
+92878747,2024-11-30,Apple iPhone SE (2022),429.0,1,PHONES,Apple,qiwi,No,Ms. Christine Smith,FEMALE,London,35,4
+89772973,2024-12-01,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,qiwi,No,Joshua Vaughn,MALE,London,18,4
+22105264,2024-12-01,Logitech G Pro X Wireless,229.0,1,HEADPHONES,Logitech,card,No,Timothy Santiago,MALE,London,46,4
+30073166,2024-12-01,Canon PIXMA TR8620a,199.99,2,PRINTERS,Canon,paypal,No,Teresa Skinner,FEMALE,Leeds,25,5
+90213472,2024-12-01,HP Pavilion 15,749.0,1,COMPUTERS,HP,qiwi,No,Katherine Henson,FEMALE,London,46,3
+98894895,2024-12-01,Anker Soundcore Life Q35,116.99,1,HEADPHONES,Anker,google_pay,Yes,Sara Obrien,FEMALE,Birmingham,28,3
+46857316,2024-12-02,Apple iPad Air,599.0,1,TABLETS,Apple,card,No,Cathy Mays,FEMALE,Birmingham,47,5
+58070758,2024-12-02,Samsung Galaxy A54,449.0,1,PHONES,Samsung,paypal,No,Lori Evans,FEMALE,London,31,5
+67844159,2024-12-02,Apple AirPods Pro (2nd gen),224.1,1,HEADPHONES,Apple,qiwi,Yes,Dana Garcia,FEMALE,London,37,4
+34601884,2024-12-03,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,google_pay,No,Mackenzie Rosario,FEMALE,Birmingham,40,3
+39226570,2024-12-03,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,apple_pay,No,Vincent Scott,MALE,London,30,4
+48453950,2024-12-03,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,paypal,Yes,Vicki Park,FEMALE,London,37,3
+13297312,2024-12-04,Bose QuietComfort 45,296.99,1,HEADPHONES,Bose,paypal,Yes,Deborah Vasquez,FEMALE,Liverpool,36,4
+23742598,2024-12-04,Sennheiser Momentum 4,349.99,1,HEADPHONES,Sennheiser,qiwi,No,Brittney Moore,FEMALE,London,46,5
+57862347,2024-12-04,HP Pavilion 15,749.0,1,COMPUTERS,HP,apple_pay,No,Jennifer Mendez,FEMALE,Glasgow,19,4
+47445635,2024-12-04,Apple iPhone SE (2022),429.0,2,PHONES,Apple,qiwi,No,Meghan Bradley,FEMALE,Leeds,43,5
+63516531,2024-12-05,OnePlus 12,799.99,1,PHONES,OnePlus,google_pay,No,Tony Coleman,MALE,London,25,4
+99391539,2024-12-05,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,card,No,Sarah Foley,FEMALE,Plymouth,36,5
+65382103,2024-12-05,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,card,No,Dawn Chavez,FEMALE,Coventry,32,5
+83686719,2024-12-06,Samsung Galaxy Tab S9,899.99,2,TABLETS,Samsung,qiwi,No,Lauren Jensen,FEMALE,London,44,4
+99111816,2024-12-06,Lenovo ThinkPad X1 Carbon,1499.0,1,COMPUTERS,Lenovo,apple_pay,No,Whitney Yang,FEMALE,Aberdeen,40,4
+60467508,2024-12-06,Dell XPS 13,1299.99,1,COMPUTERS,Dell,card,No,Frederick Park,MALE,London,44,5
+52341410,2024-12-06,HP Spectre x360,1199.99,1,COMPUTERS,HP,qiwi,No,Amanda Baker,FEMALE,Leeds,27,3
+89333501,2024-12-07,Lexmark MB3442adw,379.0,1,PRINTERS,Lexmark,google_pay,No,Miss Lisa Lewis,FEMALE,Liverpool,36,3
+80321187,2024-12-07,Google Pixel 8 Pro,999.0,1,PHONES,Google,google_pay,No,Bridget Fuentes,FEMALE,London,53,4
+18454901,2024-12-07,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,card,No,Rachael Spencer,FEMALE,Birmingham,43,5
+65335888,2024-12-07,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,card,No,Emily Johnson,FEMALE,Glasgow,18,3
+19739748,2024-12-07,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,card,No,Kathryn Gordon,FEMALE,London,55,5
+59560289,2024-12-07,OnePlus 12,799.99,1,PHONES,OnePlus,qiwi,No,Christine Salazar,FEMALE,London,45,4
+40264752,2024-12-07,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,paypal,No,Roger Jenkins,MALE,London,29,5
+29686339,2024-12-08,HP Pavilion 15,749.0,1,COMPUTERS,HP,google_pay,No,Stacy Parsons,FEMALE,London,30,4
+90977053,2024-12-08,Beats Studio Pro,349.0,2,HEADPHONES,Beats,apple_pay,No,Holly Hartman,FEMALE,Coventry,40,5
+45757372,2024-12-08,"Apple MacBook Pro 14""",1999.99,1,COMPUTERS,Apple,qiwi,No,Jodi Marquez,FEMALE,Birmingham,22,5
+07532696,2024-12-09,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,paypal,No,Heather Allen,FEMALE,London,31,5
+67498505,2024-12-09,Sony Xperia 1 V,989.1,1,PHONES,Sony,google_pay,Yes,Rachel Green,FEMALE,Birmingham,27,2
+11798231,2024-12-10,Epson WorkForce WF-2930,149.0,1,PRINTERS,Epson,card,No,Dawn Delacruz,FEMALE,London,24,4
+61840324,2024-12-10,Sony WH-1000XM5,399.99,1,HEADPHONES,Sony,card,No,Christopher Sims,MALE,Coventry,42,5
+65102138,2024-12-10,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,cash,Yes,Nicholas Carr,MALE,London,28,5
+00324632,2024-12-10,Apple iPhone SE (2022),429.0,1,PHONES,Apple,apple_pay,No,Casey Patton,FEMALE,Leeds,57,4
+61196926,2024-12-11,HP Pavilion 15,749.0,1,COMPUTERS,HP,paypal,No,Teresa Thomas,FEMALE,London,31,5
+84131584,2024-12-11,Sony WH-1000XM5,399.99,1,HEADPHONES,Sony,cash,No,Tracey Johnson,FEMALE,London,23,4
+93780926,2024-12-12,Anker Soundcore Life Q35,129.99,1,HEADPHONES,Anker,cash,No,Jamie Stuart,FEMALE,Birmingham,31,4
+23046665,2024-12-12,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,qiwi,No,Tiffany Collins,FEMALE,Birmingham,36,5
+77855695,2024-12-12,Samsung Galaxy A54,449.0,1,PHONES,Samsung,card,No,Maria Ortega,FEMALE,Leeds,21,4
+43458011,2024-12-12,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,cash,No,Hannah Baker,FEMALE,London,20,4
+93258340,2024-12-12,Sony WH-1000XM5,359.99,1,HEADPHONES,Sony,apple_pay,Yes,Dawn Davis,FEMALE,London,31,4
+44819682,2024-12-13,Canon imageCLASS MF264dw,189.99,1,PRINTERS,Canon,qiwi,No,Amanda Lara,FEMALE,Glasgow,22,5
+79042635,2024-12-13,Bose QuietComfort 45,329.99,1,HEADPHONES,Bose,apple_pay,No,Sara Hill,FEMALE,London,61,5
+42185895,2024-12-13,Logitech G Pro X Wireless,229.0,1,HEADPHONES,Logitech,card,No,Jason Ryan,MALE,London,39,4
+07611711,2024-12-13,HP Pavilion 15,749.0,1,COMPUTERS,HP,card,No,Kristina Jordan,FEMALE,Aberdeen,35,3
+40669762,2024-12-14,Motorola Edge 40 Pro,629.99,1,PHONES,Motorola,card,Yes,Scott Rivera,MALE,Liverpool,40,2
+12193592,2024-12-14,Samsung Galaxy S24 Ultra,1199.99,1,PHONES,Samsung,qiwi,No,Sandra Morales,FEMALE,London,27,4
+53619518,2024-12-14,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,apple_pay,No,Sara Farrell,FEMALE,Glasgow,48,5
+57957616,2024-12-14,Sony WH-1000XM5,399.99,1,HEADPHONES,Sony,qiwi,No,Pamela Gamble,FEMALE,London,39,4
+37597962,2024-12-14,Amazon Fire HD 10,149.99,1,TABLETS,Amazon,card,No,Patrick Rodriguez,MALE,Leeds,18,4
+15559845,2024-12-14,Samsung Galaxy A54,449.0,1,PHONES,Samsung,paypal,No,Whitney Johnson,FEMALE,Birmingham,46,2
+41756379,2024-12-15,Microsoft Surface Laptop 5,1099.99,1,COMPUTERS,Microsoft,apple_pay,No,Maria Lyons,FEMALE,London,25,4
+62124393,2024-12-16,Samsung Galaxy Buds2 Pro,229.99,1,HEADPHONES,Samsung,google_pay,No,Yolanda Dorsey,FEMALE,London,32,4
+20422059,2024-12-16,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,qiwi,No,Stacey Mueller,FEMALE,Liverpool,34,4
+35366317,2024-12-16,"Apple iMac 24""",1299.0,1,COMPUTERS,Apple,cash,No,Hannah Lynch,FEMALE,Leeds,21,5
+00742283,2024-12-17,Canon PIXMA TR8620a,199.99,1,PRINTERS,Canon,paypal,No,Anna Miller,FEMALE,Birmingham,29,5
+86740401,2024-12-17,Brother MFC-J4335DW,179.0,1,PRINTERS,Brother,qiwi,No,Robin Russell,FEMALE,London,18,5
+17526883,2024-12-17,Apple iPhone SE (2022),429.0,1,PHONES,Apple,card,No,Kaitlyn Hudson,FEMALE,Leeds,28,3
+42060093,2024-12-17,Samsung Galaxy Tab A8,229.99,1,TABLETS,Samsung,apple_pay,No,Lisa Jones,FEMALE,Liverpool,23,4
+99347963,2024-12-17,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,apple_pay,No,Michelle Smith,FEMALE,London,45,4
+76021183,2024-12-17,Asus ROG Zephyrus G14,1599.0,1,COMPUTERS,Asus,paypal,No,Kurt Howell,MALE,Birmingham,23,3
+10852255,2024-12-17,HP Pavilion 15,674.1,1,COMPUTERS,HP,qiwi,Yes,Jessica Price,FEMALE,Glasgow,18,5
+48076340,2024-12-18,Samsung Galaxy Tab S9,899.99,1,TABLETS,Samsung,qiwi,No,Katie Brown,FEMALE,Leeds,26,4
+93911139,2024-12-19,Brother HL-L2350DW,149.99,1,PRINTERS,Brother,paypal,No,Mr. Douglas Turner,MALE,London,20,3
+95853680,2024-12-22,Xiaomi 14 Pro,699.0,1,PHONES,Xiaomi,card,No,Tina Kim,FEMALE,London,60,3
+88769561,2024-12-22,Dell XPS 13,1169.99,1,COMPUTERS,Dell,card,Yes,Shannon Reed,FEMALE,Liverpool,44,5
+04872115,2024-12-23,Samsung Galaxy A54,449.0,1,PHONES,Samsung,card,No,Sheena Moore,FEMALE,London,20,5
+15403544,2024-12-23,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,card,No,Robin Jones,FEMALE,London,45,3
+34818688,2024-12-23,Asus ROG Flow Z13,1699.99,1,TABLETS,Asus,card,No,Ryan Berry,MALE,Glasgow,50,5
+10491317,2024-12-24,HP LaserJet Pro M404dn,229.99,1,PRINTERS,HP,qiwi,No,Bethany Matthews,FEMALE,Edinburgh,57,5
+46265623,2024-12-24,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,google_pay,No,Rachel Fleming,FEMALE,Birmingham,40,4
+93536356,2024-12-24,Samsung Galaxy Buds2 Pro,206.99,1,HEADPHONES,Samsung,card,Yes,Madison Castillo,FEMALE,Reading,43,5
+92994072,2024-12-24,Epson EcoTank ET-2850,299.0,1,PRINTERS,Epson,google_pay,No,Jamie Mata,FEMALE,London,18,4
+89556382,2024-12-25,HP Pavilion 15,749.0,1,COMPUTERS,HP,card,No,Eddie Harmon,MALE,London,18,4
+37403430,2024-12-25,Huawei MatePad Pro,649.0,1,TABLETS,Huawei,card,No,Laura Garcia,FEMALE,London,36,4
+55348638,2024-12-25,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,google_pay,No,Sherri Garcia,FEMALE,Edinburgh,61,5
+69900686,2024-12-25,Sony Xperia 1 V,1099.0,1,PHONES,Sony,qiwi,No,Michelle Miller,FEMALE,Glasgow,18,5
+70934328,2024-12-25,HP OfficeJet Pro 9015e,229.0,1,PRINTERS,HP,card,No,Elizabeth Roach,FEMALE,London,38,5
+57887951,2024-12-26,Microsoft Surface Pro 9,999.99,1,TABLETS,Microsoft,card,No,Jonathon Lawson,MALE,Liverpool,40,4
+44848354,2024-12-26,MSI Katana GF66,899.99,1,COMPUTERS,MSI,card,No,Linda Holloway,FEMALE,London,39,2
+63278675,2024-12-27,Lenovo Tab P12 Pro,699.0,1,TABLETS,Lenovo,paypal,No,Ryan Waters,MALE,Birmingham,29,3
+47031241,2024-12-27,Jabra Elite 7 Pro,179.1,1,HEADPHONES,Jabra,card,Yes,William Wiley,MALE,Liverpool,39,4
+86934237,2024-12-28,Apple iPhone SE (2022),429.0,1,PHONES,Apple,apple_pay,No,Sarah Parks,FEMALE,Birmingham,18,5
+58143926,2024-12-28,Apple iPhone 15 Pro,999.0,1,PHONES,Apple,paypal,No,Norma Moore,FEMALE,Edinburgh,39,4
+79335126,2024-12-29,Motorola Edge 40 Pro,699.99,1,PHONES,Motorola,card,No,Charlene Harper,FEMALE,Birmingham,45,5
+86619639,2024-12-29,"Apple iPad Pro 12.9""",1099.0,1,TABLETS,Apple,paypal,No,Matthew White,MALE,Birmingham,32,4
+15048349,2024-12-29,"Apple MacBook Pro 14""",1799.99,1,COMPUTERS,Apple,apple_pay,Yes,Angela Blevins,FEMALE,Liverpool,37,4
+69746062,2024-12-30,Apple iPhone SE (2022),429.0,1,PHONES,Apple,card,No,Kellie Rodriguez,FEMALE,Leeds,54,4
