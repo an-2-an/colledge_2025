@@ -16,3 +16,4 @@ colledge students on practice
 - yuhnevych_12.ipynb
 - yatsenko_13.ipynb
 - ermakov_14.ipynb
+- rudyk_15.ipynb
